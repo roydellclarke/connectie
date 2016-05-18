@@ -1,7 +1,7 @@
 # connectie
 Breadfruit Head is a hybrid mobile app that answers the question: 
 
-What is going on in the Caribbean Community relating to sport,lifestyle and entertanment ?
+What is going on in the Caribbean Community relating to sports, lifestyle and entertanment ?
 
 We push this information to iPhone, Mac, Android and web.
 Readers and viewers are pompered and updated with bite size news feed and nuggets of joy. 
