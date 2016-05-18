@@ -1,7 +1,7 @@
 # connectie
 
-#You Are Always Hearing About A Cultural Event A day Too Late. 
-#Find Out What We Are Doing About It.
+#You Are Always Hearing About A Cultural Event A Day Too Late. 
+Find Out What We Are Doing About That.
 
 Breadfruit Head is a hybrid mobile app that answers the question: 
 
